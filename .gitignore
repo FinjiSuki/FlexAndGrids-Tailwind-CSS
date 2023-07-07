@@ -1,0 +1,134 @@
+# General
+.DS_Store
+.idea/
+*.swp
+*~
+
+# Compiled Source Code
+*.class
+*.o
+*.pyc
+*.dll
+*.exe
+
+# Dependency Management
+node_modules/
+vendor/
+venv/
+
+# Build Artifacts
+build/
+dist/
+out/
+target/
+
+# IDE/Editor Specific
+.vscode/
+.project
+.idea/
+*.iml
+.ipr
+
+# Operating System
+Thumbs.db
+.DS_Store
+.Spotlight-V100/
+.Trashes/
+ehthumbs.db
+
+# Compiled Language-Specific
+# C/C++
+*.out
+*.app
+*.dSYM/
+*.obj
+*.pch
+*.pdb
+*.ilk
+*.suo
+*.idb
+
+# Java
+*.class
+*.war
+*.ear
+*.jar
+hs_err_pid*
+
+# Python
+*.pyc
+*.pyo
+*.pyd
+*.env
+
+# Ruby
+*.gem
+*.rbc
+*.bundle
+
+# Node.js
+node_modules/
+npm-debug.log*
+.npm/
+
+# Go
+*.exe
+*.dll
+*.so
+*.test
+
+# Swift
+*.ipa
+*.xcarchive
+*.xcworkspace
+
+# Web Development
+# HTML/CSS/JavaScript
+*.html
+*.css
+*.js
+*.map
+*.min.js
+*.min.css
+
+# React.js
+.eslintcache
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Frameworks and CMS
+# Django
+*.log
+*.pot
+__pycache__/
+db.sqlite3
+
+# Ruby on Rails
+*.log
+log/
+tmp/
+db/*.sqlite3
+
+# Laravel
+vendor/
+*.env
+*.env.*
+storage/
+bootstrap/cache/
+
+# WordPress
+wp-config.php
+wp-content/uploads/
+wp-content/cache/
+
+# Miscellaneous
+.env
+.env.*
+.cache/
+.idea/workspace.xml
+.vs/
+.vscode/
+*.iml
+.npmignore
